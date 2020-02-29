@@ -1,39 +1,66 @@
 {
   "project_info": {
-    "project_number": "1010831736445",
-    "firebase_url": "https://fcmphp-814af.firebaseio.com",
-    "project_id": "fcmphp-814af",
-    "storage_bucket": "fcmphp-814af.appspot.com"
+    "project_number": "400871169473",
+    "firebase_url": "https://fcmandroid2020.firebaseio.com",
+    "project_id": "fcmandroid2020",
+    "storage_bucket": "fcmandroid2020.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1010831736445:android:8db5bc35b15caf48",
+        "mobilesdk_app_id": "1:400871169473:android:10171dab558a94e890e340",
+        "android_client_info": {
+          "package_name": "com.coxtunes.firebasefcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400871169473-ep80gtegh8dsmtlkup8r61d3plt2saoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQKDTeVxW6z6lv8NfmuNdg82k-TuO0lM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400871169473-ep80gtegh8dsmtlkup8r61d3plt2saoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400871169473:android:67d41e5cc80c06d890e340",
         "android_client_info": {
           "package_name": "com.studioabir.fcmphp.fcmphp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1010831736445-2j3fbau9g8ehnlu53lbsnrs1ubuq22gc.apps.googleusercontent.com",
+          "client_id": "400871169473-ep80gtegh8dsmtlkup8r61d3plt2saoq.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDvDWnI0-O4lJiaQRkBqszssHrGXSOEZzE"
+          "current_key": "AIzaSyBQKDTeVxW6z6lv8NfmuNdg82k-TuO0lM0"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400871169473-ep80gtegh8dsmtlkup8r61d3plt2saoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
